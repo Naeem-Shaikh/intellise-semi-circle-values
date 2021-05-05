@@ -55,6 +55,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>intellise360-semi-circle-values</finalName>
 	</build>
 
 </project>
